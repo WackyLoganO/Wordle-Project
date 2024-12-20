@@ -36,7 +36,7 @@ def play_wordle():
         print(f"Feedback: {feedback}")
 
         if guess == secret_word:
-            print("Congratulations! You've guessed the word!")
+            print("Congratulations! Guessed the word!")
             break
 
         attempts -= 1
