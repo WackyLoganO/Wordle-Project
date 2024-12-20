@@ -28,14 +28,14 @@ def play_wordle():
             print("Please enter a 5-letter word.")
             continue
         if guess not in word_list:
-            print("Word not in list. Try again.")
+            print("Word does not exist. Try again.")
             continue
 
         feedback = get_feedback(secret_word, guess)
         print(f"Feedback: {feedback}")
 
         if guess == secret_word:
-            print("Congratulations! Guessed the word!")
+            print("Congratulations! You guessed the word!")
             break
 
         attempts -= 1
