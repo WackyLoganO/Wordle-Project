@@ -257,7 +257,7 @@ def get_feedback(secret_word, guess):
     return ''.join(feedback)
 
 # Main game function
-def play_wordle():
+def play_Wordle():
     secret_word = random.choice(word_list)
     attempts = 6
     print(
@@ -290,4 +290,4 @@ def play_wordle():
         print(Fore.LIGHTBLUE_EX + f"Sorry, you've run out of attempts. The word was: {secret_word}" + Fore.RESET)
 
 # Run the game
-play_wordle()
+play_Wordle()
