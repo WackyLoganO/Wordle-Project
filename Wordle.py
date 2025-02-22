@@ -304,7 +304,6 @@ def play_Wordle():
             continue
 
         feedback = get_feedback(secret_word, guess)
-        init(autoreset=True)
         print(f"Feedback: {feedback}")
         if guess == secret_word:
             print(Fore.LIGHTBLUE_EX + "Congratulatons! You guessed the word!" + Fore.RESET)
