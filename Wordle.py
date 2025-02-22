@@ -34,8 +34,8 @@ word_list = [
     "bride", "brief", "brine", "bring", "brink", "briny", "brisk", "broad", "broil", "broke",
     "brood", "brook", "broom", "broth", "brown", "brunt", "brush", "brute", "buddy", "budge",
     "buggy", "bugle", "build", "built", "bulky", "bully", "bunch", "bunny", "burly", "burnt",
-    "burst", "bused", "bushy", "butch", "butte", "buxom", "buyer", "bylaw", "boons", "cabal", 
-    "cabby",
+    "burst", "bused", "bushy", "butch", "butte", "buxom", "buyer", "bylaw", "boons", "beaky", 
+    "cabal", "cabby",
     "cabin", "cable", "cacao", "cache", "cacti", "caddy", "cadet", "cagey", "cairn", "camel",
     "cameo", "canal", "candy", "canny", "canoe", "canon", "caper", "caput", "carat", "cargo",
     "carol", "carry", "carve", "caste", "catch", "cater", "catty", "caulk", "cause", "cavil",
@@ -87,7 +87,8 @@ word_list = [
     "forte", "forth", "forty", "forum", "found", "foyer", "frail", "frame", "frank", "fraud", 
     "freak", "freed", "freer", "fresh", "friar", "fried", "frill", "frisk", "fritz", "frock", 
     "frond", "front", "frost", "froth", "frown", "froze", "fruit", "fudge", "fuels", "fugue", 
-    "fully", "fungi", "funky", "funny", "furor", "furry", "fussy", "fuzzy", "gaffe", "gaily", 
+    "fully", "fungi", "funky", "funny", "furor", "furry", "fussy", "fuzzy", "fears", "gaffe", 
+    "gaily", 
     "gamer", "gamma", "gamut", "gassy", "gaudy", "gauge", "gaunt", "gauze", "gavel", "gawky", 
     "gayer", "gayly", "gazer", "gecko", "geeky", "geese", "genie", "genre", "ghost", "ghoul", 
     "giant", "giddy", "gipsy", "girly", "girth", "given", "giver", "glade", "gland", "glare", 
@@ -134,8 +135,8 @@ word_list = [
     "money", "month", "moody", "moose", "moral", "moron", "morph", "mossy", "motel", "motif", 
     "motor", "motto", "moult", "mound", "mount", "mourn", "mouse", "mouth", "mover", "movie", 
     "mower", "mucky", "mucus", "muddy", "mulch", "mummy", "munch", "mural", "murky", "mushy", 
-    "music", "musky", "musty", "myrrh", "myths", "means", "nabob", "nacho", "nadir", "naive",
-    "naked",
+    "music", "musky", "musty", "myrrh", "myths", "means", "mazes", "nacho", "nadir", "naive",
+    "nabob", "naked",
     "nasal", "nasty", "natal", "naval", "navel", "needy", "nerdy", "nerve", "never", "newer", 
     "newly", "nicer", "niche", "niece", "night", "ninja", "ninny", "ninth", "noble", "nobly", 
     "noise", "noisy", "nomad", "noose", "north", "nosey", "notch", "novel", "nudge", "nurse", 
@@ -157,8 +158,8 @@ word_list = [
     "prick", "pride", "pried", "prime", "primo", "print", "prior", "prise", "prism", "privy", 
     "prize", "probe", "prong", "proof", "prose", "proud", "prove", "prowl", "proxy", "prude", 
     "prune", "psalm", "psych", "pubic", "puffy", "pulpy", "pulse", "punch", "pupil", "puppy", 
-    "puree", "purer", "purge", "purse", "pushy", "putty", "pygmy", "peels", "quack", "quail", 
-    "quake", 
+    "puree", "purer", "purge", "purse", "pushy", "putty", "pygmy", "peels", "pinch", "quack", 
+    "quail", "quake", 
     "qualm", "quark", "quart", "quash", "quasi", "queen", "queer", "quell", "query", "quest", 
     "quick", "quiet", "quill", "quilt", "quirk", "quite", "quota", "quote", "quoth", "rabbi", 
     "rabid", "racer", "radar", "radii", "radio", "rainy", "raise", "rajah", "rally", "ralph", 
@@ -171,7 +172,8 @@ word_list = [
     "riser", "risky", "rival", "river", "rivet", "roach", "roast", "robin", "robot", "rocky", 
     "rodeo", "roger", "rogue", "roomy", "roost", "rosin", "rotor", "rouge", "rough", "round", 
     "rouse", "route", "rover", "rowdy", "rower", "royal", "ruddy", "ruder", "rugby", "ruler", 
-    "rumba", "rumor", "rupee", "rural", "rusty", "sadly", "safer", "saint", "salad", "sally", 
+    "rumba", "rumor", "rupee", "rural", "rusty", "reshi", "runny", "runty", "sadly", "safer", 
+    "saint", "salad", "sally", 
     "salon", "salsa", "salty", "salve", "salvo", "sandy", "saner", "sappy", "sassy", "satin", 
     "satyr", "sauce", "saucy", "sauna", "saute", "savor", "savvy", "scald", "scale", "scalp", 
     "scaly", "scamp", "scant", "scarf", "scary", "scene", "scent", "scion", "scoff", "scold", 
@@ -206,8 +208,8 @@ word_list = [
     "style", "suave", "sugar", "suing", "suite", "sulky", "sully", "sumac", "sunny", "super", 
     "surer", "surge", "surly", "sushi", "swami", "swamp", "swarm", "swash", "swath", "swear", 
     "sweat", "sweet", "swell", "swept", "swift", "swill", "swine", "swing", "swirl", "swish", 
-    "swoon", "swoop", "sword", "sworn", "synod", "syrup", "seals", "tabby", "table", "taboo", 
-    "tacit", 
+    "swoon", "swoop", "sword", "sworn", "synod", "syrup", "seals", "seams", "stays", "tabby",
+    "taboo", "tacit", "table",
     "tacky", "taffy", "taint", "taken", "taker", "tally", "talon", "tamer", "tango", "tangy", 
     "taper", "tapir", "tardy", "tarry", "taste", "tasty", "tatty", "taunt", "tawny", "teach", 
     "tease", "teddy", "teeth", "tempo", "tenet", "tenor", "tense", "tenth", "tepee", "tepid", 
@@ -236,25 +238,45 @@ word_list = [
     "which", "whiff", "while", "whine", "whiny", "whirl", "whisk", "white", "whole", "whoop", 
     "whose", "widen", "wider", "widow", "width", "wield", "wight", "wilds", "wimpy", "wince", 
     "winch", "winds", "windy", "wined", "wines", "wings", "winks", "wiped", "wipes", "wires", 
-    "wired", "wiser", "wisps", "wispy", "witch", "witty", "wives", "woeful", "woman", "women", 
+    "wired", "wiser", "wisps", "wispy", "witch", "witty", "wives", "woman", "women", 
     "wonky", "woods", "woody", "wooed", "wooer", "wooly", "woozy", "words", "wordy", "works", 
     "world", "worms", "worry", "worse", "worst", "worth", "would", "wound", "woven", "wrack", 
     "wrath", "wreak", "wreck", "wrest", "wring", "wrist", "write", "wrong", "wrote", "wrung", 
     "wryly", "yacht", "yahoo", "yanks", "yards", "yarns", "yearn", "years", "yeast", "yield", 
     "young", "yours", "youth", "yummy", "zebra", "zeros", "zesty", "zonal", "zones", "zooey"
 ]
+name_list = [
+    "aidan", "clara", "caleb", "drake", "eliza", "frank", "glenn", "henry", "isaac", "jason", 
+    "julie", "joann", "logan", "lucia", "laney", "paige", "raine", "susan", "steve", "saria", 
+    "zaria", "zelda"
+    ]
 
 # Function to provide feedback on the guess
 def get_feedback(secret_word, guess):
     feedback = []
     for i in range(len(secret_word)):
         if guess[i] == secret_word[i]:
-            feedback.append(Back.GREEN + " " + Back.RESET)  # Correct letter in the correct place
+            feedback.append(Back.GREEN + Fore.BLACK + guess[i] + Back.RESET + Fore.RESET)  # Correct letter in the correct place
         elif guess[i] in secret_word:
-            feedback.append(Back.YELLOW + " " + Back.RESET)  # Correct letter in the wrong place
+            feedback.append(Back.YELLOW + Fore.BLACK + guess[i] + Back.RESET + Fore.RESET)  # Correct letter in the wrong place
         else:
-            feedback.append(Back.RED + " " + Back.RESET)  # Incorrect letter
+            feedback.append(Back.RED + Fore.BLACK + guess[i] + Back.RESET + Fore.RESET)  # Incorrect letter
     return ''.join(feedback)
+
+def read_win_streak():
+    try:
+        current_dir = os.path.dirname(__file__)
+        file_path = os.path.join(current_dir, "wordle_win_streak.txt")
+        with open(file_path) as file:
+            return int(file.read().strip())
+    except FileNotFoundError:
+        return 0
+    
+def write_win_streak(streak):
+    current_dir = os.path.dirname(__file__)
+    file_path = os.path.join(current_dir, "wordle_win_streak.txt")
+    with open(file_path, "w") as file:
+        file.write(str(streak))
 
 # Main game function
 def play_Wordle():
@@ -264,23 +286,31 @@ def play_Wordle():
         Fore.LIGHTBLUE_EX + "Welcome to Wordle! Guess the 5-letter word. " + Fore.RED + 
         "Red" + Fore.LIGHTBLUE_EX + " means wrong letter, " + Fore.YELLOW + "Yellow" + 
         Fore.LIGHTBLUE_EX + " means right letter wrong place, " + Fore.GREEN + "Green" 
-        + Fore.LIGHTBLUE_EX + " means right letter right place"
+        + Fore.LIGHTBLUE_EX + " means right letter right place."
         )
+    wordle_win_streak = read_win_streak()
+    print("your win streak is currently:", wordle_win_streak)
 
     while attempts > 0:
         guess = input(Fore.LIGHTBLUE_EX + "Enter your guess: "  + Fore.RESET).lower()
         if len(guess) != 5:
             print(Fore.LIGHTBLUE_EX + "Please enter a 5-letter word.")
             continue
+        if guess in name_list:
+            print(Fore.LIGHTBLUE_EX + "Names cannot be used. Try again.")
+            continue
         if guess not in word_list:
             print(Fore.LIGHTBLUE_EX + "Word does not exist. Try again.")
             continue
 
         feedback = get_feedback(secret_word, guess)
+        init(autoreset=True)
         print(f"Feedback: {feedback}")
-
         if guess == secret_word:
-            print(Fore.LIGHTBLUE_EX + "Congratulations! You guessed the word!" + Fore.RESET)
+            print(Fore.LIGHTBLUE_EX + "Congratulatons! You guessed the word!" + Fore.RESET)
+            wordle_win_streak = wordle_win_streak + 1
+            write_win_streak(wordle_win_streak)
+            print(wordle_win_streak)
             break
 
         attempts -= 1
@@ -288,6 +318,9 @@ def play_Wordle():
 
     if attempts == 0:
         print(Fore.LIGHTBLUE_EX + f"Sorry, you've run out of attempts. The word was: {secret_word}" + Fore.RESET)
+        wordle_win_streak = 0
+        write_win_streak(wordle_win_streak)
+        print("your current win streak has been reset:", wordle_win_streak)
 
 # Run the game
 play_Wordle()

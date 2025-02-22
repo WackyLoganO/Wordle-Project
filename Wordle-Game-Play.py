@@ -1,1 +1,2 @@
-file = open("")
+file = open("Wordle.py")
+exec(file)
